@@ -6,11 +6,11 @@
 
 ## 🌟 About me:
 
-- 🎓 Final Year at **Indian Institute of Information Technology, Bhopal**
+- 🎓 Final Year at **Medicaps University, Indore**
 - 🔭 I’m currently working on **MERN PROJECTS**
 - 📚 I’m currently learning **Full Stack, DSA and CP**
 - 🌱 Always learning, always building — let's connect and create something awesome!
-- 📧 Reach me at:[bhuvanshivhare177@gmail.com]
+- 📧 Reach me at:[vinay@gmail.com]
 
 ## 🛠️ Tech Stack
 
