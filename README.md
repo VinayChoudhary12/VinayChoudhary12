@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **MERN PROJECTS**
 - 📚 I’m currently learning **Full Stack, DSA and CP**
 - 🌱 Always learning, always building — let's connect and create something awesome!
-- 📧 Reach me at:[vinay@gmail.com]
+- 📧 Reach me at:[vinaychoudhary56803@gmail.com]
 
 ## 🛠️ Tech Stack
 
